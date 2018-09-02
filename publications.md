@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 
 #### Conference papers
 - **Yuyin Zhou**, Yan Wang, Peng Tang, Song Bai, Wei Shen, Elliot K. Fishman, Alan Yuille. "Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training", IEEE Winter Conference on Applications of Computer Vision (WACV) 2019 ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
-- Yan Wang, **Yuyin Zhou**, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2018. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
+- Yan Wang, **Yuyin Zhou**, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI, **Oral**) 2018. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
 - Qihang Yu, Lingxi Xie, Yan Wang, **Yuyin Zhou**, Elliot K Fishman, "Recurrent Saliency Transformation Network:
 Incorporating Multi-Stage Visual Cues for Small Organ Segmentation", Conference on Computer Vision and Pattern Recognition (CVPR) 2018 ([PDF](https://arxiv.org/pdf/1709.04518.pdf))
 <br /> 
