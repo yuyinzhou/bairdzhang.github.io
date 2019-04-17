@@ -7,7 +7,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <br />
 
 #### Preprints
-- **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", arXiv ([PDF (https://arxiv.org/pdf/1904.06346.pdf))
+- **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", Arxiv ([PDF](https://arxiv.org/pdf/1904.06346.pdf))
+- Yingwei Li, Song Bai, **Yuyin Zhou**, Cihang Xie, Zhishuai Zhang, Alan L. Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", Arxiv ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
+- Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
 
 #### Conference papers
 - Cihang Xie, Zhishuai Zhang, **Yuyin Zhou**, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
