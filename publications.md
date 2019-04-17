@@ -7,10 +7,10 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <br />
 
 #### Preprints
-- Cihang Xie, Zhishuai Zhang, Jianyu Wang, **Yuyin Zhou**, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", arXiv ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
-- Yan Wang\*, **Yuyin Zhou\***, Wei Shen, Seyoun Park, Elliot K. Fishman, Alan Yuille. Abdominal multi-organ segmentation with organ-attention networks and statistical fusion. ([PDF](https://arxiv.org/pdf/1804.08414.pdf))
+- **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", arXiv ([PDF (https://arxiv.org/pdf/1904.06346.pdf))
 
 #### Conference papers
+- Cihang Xie, Zhishuai Zhang, **Yuyin Zhou**, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
 - **Yuyin Zhou**, Yan Wang, Peng Tang, Song Bai, Wei Shen, Elliot K. Fishman, Alan Yuille. "Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training", IEEE Winter Conference on Applications of Computer Vision (WACV) 2019 ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
 - Yan Wang, **Yuyin Zhou**, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI, **Oral**) 2018. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
 - Qihang Yu, Lingxi Xie, Yan Wang, **Yuyin Zhou**, Elliot K Fishman, "Recurrent Saliency Transformation Network:
@@ -23,5 +23,6 @@ Cyst Segmentation in Abdominal CT Scans", International Conference on Medical Im
 <br /> 
 
 #### Journal papers
+- Yan Wang\*, **Yuyin Zhou\***, Wei Shen, Seyoun Park, Elliot K. Fishman, Alan Yuille, "Abdominal multi-organ segmentation with organ-attention networks and statistical fusion", Medical Image Analysis ([PDF](https://arxiv.org/pdf/1804.08414.pdf))
 - Jianyu Wang, Zhishual Zhang, Cihang Xie, <b>Yuyin Zhou</b>, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
 
