@@ -7,11 +7,11 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <br />
 
 #### Preprints
-- **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", Arxiv ([PDF](https://arxiv.org/pdf/1904.06346.pdf))
 - Yingwei Li, Song Bai, **Yuyin Zhou**, Cihang Xie, Zhishuai Zhang, Alan L. Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", Arxiv ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
 - Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
 
 #### Conference papers
+- **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", International Conference on Computer Vision (ICCV) 2019 ([PDF](https://arxiv.org/pdf/1904.06346.pdf))
 - Cihang Xie, Zhishuai Zhang, **Yuyin Zhou**, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
 - **Yuyin Zhou**, Yan Wang, Peng Tang, Song Bai, Wei Shen, Elliot K. Fishman, Alan Yuille. "Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training", IEEE Winter Conference on Applications of Computer Vision (WACV) 2019 ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
 - Yan Wang, **Yuyin Zhou**, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI, **Oral**) 2018. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
