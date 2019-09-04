@@ -11,6 +11,11 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 - Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
 
 #### Conference papers
+- Zhishuai Zhang, **Yuyin Zhou**, Wei Shen, Elliot K Fishman, Alan L Yuille, "Lesion Detection by Efficiently Bridging 3D Context", Machine Learning in Medical Imaging (MLMI, **Oral**) Workshop of MICCAI, 2019.
+- **Yuyin Zhou**, David Dreizin, Yingwei Li, Zhishuai Zhang, Yan Wang, Alan L Yuille, "Multi-Scale Attentional Network for
+Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learning in Medical Imaging (MLMI) Workshop of MICCAI, 2019. ([PDF](https://arxiv.org/pdf/1906.09540.pdf))
+- Fengze Liu, **Yuyin Zhou**, Elliot K Fishman, Alan L Yuille, "FusionNet: Incorporating Shape and Texture for Abnormality Detection in 3D Abdominal CT Scans", Machine Learning in Medical Imaging (MLMI) Workshop of MICCAI, 2019. ([PDF](https://arxiv.org/pdf/1908.07654.pdf))
+- **Yuyin Zhou**, Yingwei Li, Zhishuai Zhang, Yan Wang, Angtian Wang, Elliot K Fishman, Alan L Yuille, Seyoun Park, "Hyper-Pairing Network for Multi-Phase Pancreatic Ductal Adenocarcinoma Segmentation", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2019 ([PDF](https://arxiv.org/pdf/1909.00906.pdf))
 - **Yuyin Zhou**, Zhe Li, Song Bai, Chong Wang, Xinlei Chen, Mei Han, Elliot Fishman, Alan L. Yuille, "Prior-aware Neural Network for Partially-Supervised Multi-Organ Segmentation", International Conference on Computer Vision (ICCV) 2019 ([PDF](https://arxiv.org/pdf/1904.06346.pdf))
 - Cihang Xie, Zhishuai Zhang, **Yuyin Zhou**, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", Conference on Computer Vision and Pattern Recognition (CVPR) 2019 ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
 - **Yuyin Zhou**, Yan Wang, Peng Tang, Song Bai, Wei Shen, Elliot K. Fishman, Alan Yuille. "Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training", IEEE Winter Conference on Applications of Computer Vision (WACV) 2019 ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
