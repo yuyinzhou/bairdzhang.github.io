@@ -7,10 +7,10 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <br />
 
 #### Preprints
-- Yingwei Li, Song Bai, **Yuyin Zhou**, Cihang Xie, Zhishuai Zhang, Alan L. Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", Arxiv ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
 - Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
 
 #### Conference papers
+- Yingwei Li, Song Bai, **Yuyin Zhou**, Cihang Xie, Zhishuai Zhang, Alan L. Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", AAAI Conference on Artificial Intelligence (AAAI), 2020. ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
 - Zhishuai Zhang, **Yuyin Zhou**, Wei Shen, Elliot K Fishman, Alan L Yuille, "Lesion Detection by Efficiently Bridging 3D Context", Machine Learning in Medical Imaging (MLMI, **Oral**) Workshop of MICCAI, 2019.
 - **Yuyin Zhou**, David Dreizin, Yingwei Li, Zhishuai Zhang, Yan Wang, Alan L Yuille, "Multi-Scale Attentional Network for
 Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learning in Medical Imaging (MLMI) Workshop of MICCAI, 2019. ([PDF](https://arxiv.org/pdf/1906.09540.pdf))
