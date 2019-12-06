@@ -8,6 +8,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 
 #### Preprints
 - Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
+- Lifeng Huang, Chengying Gao, **Yuyin Zhou**, Changqing Zou, Cihang Xie, Alan Yuille, Ning Liu, "UPC: Learning Universal Physical Camouflage Attacks on Object Detectors", Arxiv ([PDF](https://arxiv.org/pdf/1909.04326.pdf))
 
 #### Conference papers
 - Yingwei Li, Song Bai, **Yuyin Zhou**, Cihang Xie, Zhishuai Zhang, Alan L. Yuille, "Learning Transferable Adversarial Examples via Ghost Networks", AAAI Conference on Artificial Intelligence (AAAI), 2020. ([PDF](https://arxiv.org/pdf/1812.03413.pdf))
