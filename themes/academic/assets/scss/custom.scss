@@ -1,0 +1,18 @@
+// Override this file to add your own SCSS styling.
+.home-section {
+    padding: 30px 0 10px 0;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+#profile {
+    text-align: center;
+    padding: 0px 10px 25px 10px;
+    position: relative;
+}
+  
